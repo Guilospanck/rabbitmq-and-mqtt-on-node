@@ -15,9 +15,11 @@ const publishToMQTT = (topic, message) => {
     }
 }
 
-publishToMQTT('Fibo/HelloDarkness/Guilherme', JSON.stringify({
-    name: 'Marcus Aurelius',
-    book: 'Meditations',
-    philosophy: 'stoic',
-    country: 'Rome'
-}))
+module.exports = publishToMQTT;
+
+// publishToMQTT('Fibo/HelloDarkness/Guilherme', JSON.stringify({
+//     name: 'Marcus Aurelius',
+//     book: 'Meditations',
+//     philosophy: 'stoic',
+//     country: 'Rome'
+// }))
