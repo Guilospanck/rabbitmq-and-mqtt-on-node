@@ -5,6 +5,7 @@
   "author": "guilospanck <guilherme.rp2010@hotmail.com>",
   "license": "MIT",
   "dependencies": {
-    "amqplib": "^0.7.1"
+    "amqplib": "^0.7.1",
+    "mqtt": "^4.2.6"
   }
 }
