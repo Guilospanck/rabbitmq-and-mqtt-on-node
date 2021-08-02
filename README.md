@@ -6,7 +6,7 @@ Clone the repository:
 ```bash
 git clone https://github.com/Guilospanck/RabbitMQAndMQTT_OnNode.git
 ```
-Be sure to have [Node.js](https://nodejs.org/en/download/) and [Yarn](https://yarnpkg.com/getting-started/install). Go to the folder of your choice, and then run?
+Be sure to have [Node.js](https://nodejs.org/en/download/) and [Yarn](https://yarnpkg.com/getting-started/install). Go to the folder of your choice, and then run:
 ```bash
 yarn start file.js
 ```
